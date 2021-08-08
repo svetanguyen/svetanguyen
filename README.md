@@ -1,6 +1,5 @@
-### Hi there 👋, Hi there!
+### Hi there 👋!
 #### Frontend development
-![Frontend development](https://avatars.githubusercontent.com/u/19497773?v=4)
 
 I'm Sveta from Ukraine and currently working in Vietnam. I do Frontend development on a Shopify platform and I'm an active learner
 
