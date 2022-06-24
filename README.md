@@ -1,7 +1,7 @@
 ### Hi there 👋!
 #### Frontend development
 
-I'm Sveta from Ukraine and currently working in Vietnam. I do Frontend development on a Shopify platform and I'm an active learner
+I'm Sveta from Ukraine and currently working in Canada. I do Frontend development on a Shopify platform and I'm an active learner
 
 Skills: VUE JS / REACTJS / JS / HTML / CSS / SCSS / LIQUID / GULP
  
