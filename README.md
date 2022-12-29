@@ -11,5 +11,5 @@ Skills: VUE JS / REACTJS / JS / HTML / CSS / SCSS / LIQUID / GULP
 - Link to my portfolio: https://sveta-nguyen.netlify.app/
 
 [![Sveta's GitHub stats](https://github-readme-stats.vercel.app/api?username=svetanguyen)](https://github.com/svetanguyen/github-readme-stats)
-ts)
+
 
